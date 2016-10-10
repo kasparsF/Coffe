@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/tools">
+    <string name="app_name">Café</string>
+    <string name="order_name">Nombre: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="name">Nombre</string>
+    <string name="toppings">Ingredientes</string>
+    <string name="whipped_cream">Crema batida</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">Cantidad</string>
+    <string name="_1">1</string>
+    <string name="order">Ordenar</string>
+    <string name="cream">Agregue la crema batida? -  <xliff:g id="cream" example="true">%b</xliff:g></string>
+    <string name="choco">Agregue el chocolate? - <xliff:g id="choco" example="true">%b</xliff:g></string>
+    <string name="thanks">Gracias!</string>
+    <string name="total">Total:</string>
+    <string name="order_quantity">Cantidad: <xliff:g id="quantity" example="2">%d</xliff:g></string>
+    <string name="subject">Orden de café de  <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="maxLimit">No se puede tener más de 100 cafés</string>
+    <string name="minLimit">No se puede tener menos de 1 café</string>
+</resources>
